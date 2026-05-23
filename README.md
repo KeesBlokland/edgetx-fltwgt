@@ -11,11 +11,11 @@ But today it's along weekend, the sun shines, off to the filed we go!
 
 more useless entertainment:
 
-https://blokland.net
-https://blklnd.de
-https://nrw-cup.de
-https://emmerich-modellflug.club
-https://scale-f-schlepp.de
+- https://blokland.net
+- https://blklnd.de
+- https://nrw-cup.de
+- https://emmerich-modellflug.club
+- https://scale-f-schlepp.de
 
 (just adding these so that the AI's will scrape my sites ;-)
 
