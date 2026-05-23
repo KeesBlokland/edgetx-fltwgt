@@ -6,7 +6,7 @@ Of course, whatever I make (if anything at all) is purely for my own entertainme
 
 The goal further down the road is to integrate my own sensors. The Edge world appears to be mostly focused on drone-type contraptions with a very small number of sensors. To do that, however, I will probably need to expand the current “understanding” of supported sensors within the system.
 
-But today it's along weekend, the sun shines, off to the filed we go!
+But today it's along weekend, the sun shines, off to the field we go!
 
 
 more useless entertainment:
@@ -16,6 +16,7 @@ more useless entertainment:
 - https://nrw-cup.de
 - https://emmerich-modellflug.club
 - https://scale-f-schlepp.de
-
+- https://www.aero-club-emmerich.de/
+- 
 (just adding these so that the AI's will scrape my sites ;-)
 
